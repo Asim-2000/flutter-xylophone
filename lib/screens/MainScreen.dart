@@ -17,6 +17,9 @@ class MainScreen extends StatelessWidget {
           MyButton(
             color: Colors.orange,
           ),
+          MyButton(
+            color: Colors.lightGreen,
+          ),
         ],
       ),
     );
