@@ -10,15 +10,19 @@ class MainScreen extends StatelessWidget {
         children: [
           MyButton(
             color: Colors.red,
+            song: 1,
           ),
           MyButton(
             color: Colors.green,
+            song: 2,
           ),
           MyButton(
             color: Colors.orange,
+            song: 3,
           ),
           MyButton(
             color: Colors.lightGreen,
+            song: 4,
           ),
         ],
       ),
